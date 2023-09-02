@@ -1,8 +1,9 @@
 # Coolwallet Cowsay
-Coolwallet say hi to you when you open your terminal!
+
+Cryptocurrency price reporter
 
 ## Demo
-![coolwallet pro](./image/coolwallet-pro.png)
+![coolwallet pro](./image/demo.png)
 
 ## Require
 

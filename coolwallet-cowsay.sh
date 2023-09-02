@@ -5,4 +5,4 @@ ethereum="$(echo $DATA | jq '.ethereum.usd')"
 echo "Bitcoin  ₿ \$$bitcoin
 Ethereum ⟠ \$$ethereum"
 
-echo "Coolwallet Pro Say Hi!" | cowsay -f coolwallet-p -n
+echo "Coolwallet Pro Say Hi!" | cowsay -f coolwallet-combo -n

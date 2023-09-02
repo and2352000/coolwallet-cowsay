@@ -1,0 +1,36 @@
+$i = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$j = "\e[48;5;221m  ";
+
+$the_cow = <<EOC
+                              $j  $i
+                          $j        $i
+                    $j      $i  $j    $i
+                $j    $i        $j    $i$j  $i
+            $j    $i            $j    $i$j    $i
+        $j    $i                $j    $i$j    $i$j  $i
+      $j  $i                    $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j$i                      $j    $i$j    $i$j    $i
+      $j  $i                    $j    $i$j    $i$j    $i
+        $j  $i                  $j    $i$j    $i$j  $i
+          $j$i                  $j    $i$j    $i$j$i
+          $j  $i                $j    $i$j    $i
+            $j  $i              $j    $i$j  $i
+              $j    $i          $j    $i$j$i
+                  $j    $i      $j  $i
+                      $j    $i  $j$i
+                          $j    $i
+
+EOC
